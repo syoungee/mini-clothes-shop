@@ -1,5 +1,5 @@
 # mini-clothes-shop 👕 👚 👖
-mini clothes shop with VanillaJS
+>mini clothes shop with VanillaJS
 tshirt, pants, skirt, pink, yellow, blue 필터 기능
 # 메인 화면
 ![스크린샷 2021-07-16 오전 11 31 12](https://user-images.githubusercontent.com/22606199/125883131-865ee652-7ee1-44bd-bf4e-21680e092b68.png)
